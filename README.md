@@ -1,3 +1,1 @@
-# algorithms
-# buildingsapartmentsowners
-# Buildingsapartmentsowners
+# buildings_apartment_sowners
