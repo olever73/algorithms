@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e7a45ba-f30d-4cc2-a60a-29acab1b9792" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms/22_06_05_sort_integer_in_binary/src/de/telran/MedianOfIntegerStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithms/22_06_05_sort_integer_in_binary/src/de/telran/MedianOfIntegerStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms/min_point_in_segments/22_05_02_min_point_in_segments.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms/min_point_in_segments/src/de/telran/MinPointsInSegments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms/min_point_in_segments/src/de/telran/MinPointsInSegmentsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithms/min_point_in_segments/src/de/telran/Segment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../home-work" beforeDir="false" afterPath="$PROJECT_DIR$/../home-work" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2B6ahdqjb5YqMs6bHBX0mi4ypGW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e7a45ba-f30d-4cc2-a60a-29acab1b9792" name="Changes" comment="" />
+      <created>1656229109391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656229109391</updated>
+      <workItem from="1656229110709" duration="818000" />
+    </task>
+    <task id="LOCAL-00001" summary="add&quot; &quot;structurs&quot;">
+      <created>1656229314731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656229314731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add&quot; &quot;structurs&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add&quot; &quot;structurs&quot;" />
+  </component>
+</project>

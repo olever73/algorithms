@@ -2,6 +2,7 @@ package de.telran;
 
 
 import org.junit.Test;
+import org.junit.jupiter.api.Assertions;
 
 import java.util.Comparator;
 import java.util.LinkedHashMap;
@@ -58,6 +59,19 @@ public class MedianOfIntegerStreamTest {
             put(128, 4d);
 
         }};
+    }
+
+    @Test
+    public void test_1() {
+        MedianOfIntegerStream mis = new MedianOfIntegerStream();
+        mis.add(5);
+        mis.add(8);
+        mis.add(2);
+        mis.add(4);
+        mis.add(3);
+        mis.add(128);
+        mis.add(129);
+        Assertions.assertEquals(5, mis.getMedian());
     }
 
 }
